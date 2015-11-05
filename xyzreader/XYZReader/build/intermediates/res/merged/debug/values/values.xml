@@ -111,7 +111,7 @@
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
     <!-- From: file:/C:/Users/olivi/OneDrive/Android/xyz-reader/xyzreader/XYZReader/src/main/res/values/colors.xml -->
     <eat-comment/>
-    <color name="yellow_a200">#FFFF00</color>
+    <color name="yellow_a400">#FFEA00</color>
     <declare-styleable name="ActionBar"><attr name="navigationMode"><enum name="normal" value="0"/><enum name="listMode" value="1"/><enum name="tabMode" value="2"/></attr><attr name="displayOptions"><flag name="none" value="0"/><flag name="useLogo" value="0x1"/><flag name="showHome" value="0x2"/><flag name="homeAsUp" value="0x4"/><flag name="showTitle" value="0x8"/><flag name="showCustom" value="0x10"/><flag name="disableHome" value="0x20"/></attr><attr name="title"/><attr format="string" name="subtitle"/><attr format="reference" name="titleTextStyle"/><attr format="reference" name="subtitleTextStyle"/><attr format="reference" name="icon"/><attr format="reference" name="logo"/><attr format="reference" name="divider"/><attr format="reference" name="background"/><attr format="reference|color" name="backgroundStacked"/><attr format="reference|color" name="backgroundSplit"/><attr format="reference" name="customNavigationLayout"/><attr name="height"/><attr format="reference" name="homeLayout"/><attr format="reference" name="progressBarStyle"/><attr format="reference" name="indeterminateProgressStyle"/><attr format="dimension" name="progressBarPadding"/><attr name="homeAsUpIndicator"/><attr format="dimension" name="itemPadding"/><attr format="boolean" name="hideOnContentScroll"/><attr format="dimension" name="contentInsetStart"/><attr format="dimension" name="contentInsetEnd"/><attr format="dimension" name="contentInsetLeft"/><attr format="dimension" name="contentInsetRight"/><attr format="dimension" name="elevation"/><attr format="reference" name="popupTheme"/></declare-styleable>
     <declare-styleable name="ActionBarLayout"><attr name="android:layout_gravity"/></declare-styleable>
     <declare-styleable name="ActionMenuItemView"><attr name="android:minWidth"/></declare-styleable>
@@ -304,12 +304,16 @@
     <item format="float" name="highlight_alpha_material_colored" type="dimen">0.26</item>
     <item format="float" name="highlight_alpha_material_dark" type="dimen">0.20</item>
     <item format="float" name="highlight_alpha_material_light" type="dimen">0.12</item>
+    <!-- From: file:/C:/Users/olivi/OneDrive/Android/xyz-reader/xyzreader/XYZReader/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="image_padding_side">8dp</dimen>
+    <dimen name="image_padding_top">8dp</dimen>
     <!-- From: file:/C:/Users/olivi/OneDrive/Android/xyz-reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
     <!-- From: file:/C:/Users/olivi/OneDrive/Android/xyz-reader/xyzreader/XYZReader/src/main/res/values/macro_layout.xml -->
     <eat-comment/>
-    <dimen name="list_side_margin">4dp</dimen>
+    <dimen name="list_side_margin">8dp</dimen>
     <dimen name="list_toolbar_side_margin">0dp</dimen>
     <!-- From: file:/C:/Users/olivi/OneDrive/Android/xyz-reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
@@ -318,7 +322,7 @@
     <dimen name="notification_subtext_size">12dp</dimen>
     <!-- From: file:/C:/Users/olivi/OneDrive/Android/xyz-reader/xyzreader/XYZReader/src/main/res/values/dimens.xml -->
     <eat-comment/>
-    <dimen name="text_padding_side">16dp</dimen>
+    <dimen name="text_padding_side">8dp</dimen>
     <dimen name="text_padding_top_bottom">4dp</dimen>
     <!-- From: file:/C:/Users/olivi/OneDrive/Android/xyz-reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
@@ -1633,7 +1637,7 @@
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimary">@color/grey_500</item>
         <item name="colorPrimaryDark">@color/grey_700</item>
-        <item name="colorAccent">@color/yellow_a200</item>
+        <item name="colorAccent">@color/yellow_a400</item>
     </style>
     <style name="Theme.Bacon.Detail">
         <item name="android:statusBarColor">@android:color/transparent</item>

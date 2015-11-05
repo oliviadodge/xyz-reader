@@ -2133,7 +2133,7 @@ containing a value of this type.
         public static final int switch_thumb_material_light=0x7f0c0058;
         public static final int switch_thumb_normal_material_dark=0x7f0c004a;
         public static final int switch_thumb_normal_material_light=0x7f0c004b;
-        public static final int yellow_a400 =0x7f0c004c;
+        public static final int yellow_a400=0x7f0c004c;
     }
     public static final class dimen {
         public static final int abc_action_bar_content_inset_material=0x7f080010;
@@ -2255,14 +2255,16 @@ containing a value of this type.
         public static final int highlight_alpha_material_colored=0x7f080076;
         public static final int highlight_alpha_material_dark=0x7f080077;
         public static final int highlight_alpha_material_light=0x7f080078;
-        public static final int item_touch_helper_max_drag_scroll_per_frame=0x7f080079;
+        public static final int image_padding_side=0x7f080079;
+        public static final int image_padding_top=0x7f08007a;
+        public static final int item_touch_helper_max_drag_scroll_per_frame=0x7f08007b;
         public static final int list_side_margin=0x7f080023;
         public static final int list_toolbar_side_margin=0x7f080024;
-        public static final int notification_large_icon_height=0x7f08007a;
-        public static final int notification_large_icon_width=0x7f08007b;
-        public static final int notification_subtext_size=0x7f08007c;
-        public static final int text_padding_side=0x7f08007d;
-        public static final int text_padding_top_bottom=0x7f08007e;
+        public static final int notification_large_icon_height=0x7f08007c;
+        public static final int notification_large_icon_width=0x7f08007d;
+        public static final int notification_subtext_size=0x7f08007e;
+        public static final int text_padding_side=0x7f08007f;
+        public static final int text_padding_top_bottom=0x7f080080;
     }
     public static final class drawable {
         public static final int abc_ab_share_pack_mtrl_alpha=0x7f020000;

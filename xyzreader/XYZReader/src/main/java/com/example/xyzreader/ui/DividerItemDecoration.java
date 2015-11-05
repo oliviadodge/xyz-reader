@@ -94,11 +94,19 @@ public class DividerItemDecoration extends RecyclerView.ItemDecoration {
             final View child = parent.getChildAt(i);
             final RecyclerView.LayoutParams params = (RecyclerView.LayoutParams) child
                     .getLayoutParams();
+
+            //Draw the boundary on the right:
             final int top = child.getTop();
             final int bottom = child.getBottom();
             final int left = child.getRight() + params.rightMargin;
             final int right = left + mDivider.getIntrinsicHeight();
             mDivider.setBounds(left, top, right, bottom);
+            mDivider.draw(c);
+
+            //Draw the boundary on the left:
+            final int left2 = child.getLeft() - params.leftMargin;
+            final int right2 = left2 + mDivider.getIntrinsicHeight();
+            mDivider.setBounds(left2, top, right2, bottom);
             mDivider.draw(c);
         }
     }
@@ -107,8 +115,6 @@ public class DividerItemDecoration extends RecyclerView.ItemDecoration {
     public void getItemOffsets(Rect outRect, View view, RecyclerView parent, RecyclerView.State state) {
         if (mOrientation == STAGGERED_GRID_LIST) {
             outRect.set(0, 0, 0, mDivider.getIntrinsicHeight());
-        } else {
-            outRect.set(0, 0, mDivider.getIntrinsicWidth(), 0);
         }
     }
 }
