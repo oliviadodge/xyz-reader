@@ -36,31 +36,16 @@ import com.example.xyzreader.data.UpdaterService;
 public class ArticleListActivity extends ActionBarActivity implements
         LoaderManager.LoaderCallbacks<Cursor>, AppBarLayout.OnOffsetChangedListener {
 
-    private Toolbar mToolbar;
     private SwipeRefreshLayout mSwipeRefreshLayout;
     private RecyclerView mRecyclerView;
     private AppBarLayout mAppBarLayout;
 
-    private ImageView mCollapsingLogo;
-    private ImageView mToolbarLogo;
-
-    private boolean mIsCollapsingToolbarLogoVisible = true;
-    private boolean mIsToolbarLogoVisible = false;
-
-    private static final float PERCENTAGE_TO_SHOW_LOGO_AT_TOOLBAR = 0.9f;
-    private static final float PERCENTAGE_TO_HIDE_COLLAPSING_LOGO = 0.9f;
-    private static final int ALPHA_ANIMATIONS_DURATION              = 200;
-
-    //    @TargetApi(22)
+    //@TargetApi(22)
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_article_list);
 
-        mToolbar = (Toolbar) findViewById(R.id.toolbar);
-
-        mCollapsingLogo = (ImageView) findViewById(R.id.collapsing_toolbar_logo);
-//        mToolbarLogo = (ImageView) findViewById(R.id.toolbar_logo);
 
         mSwipeRefreshLayout = (SwipeRefreshLayout) findViewById(R.id.swipe_refresh_layout);
         mSwipeRefreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
@@ -77,10 +62,6 @@ public class ArticleListActivity extends ActionBarActivity implements
                 new DividerItemDecoration(this,
                         DividerItemDecoration.STAGGERED_GRID_LIST));
 
-//        startAlphaAnimation(mToolbarLogo, 0, View.INVISIBLE);
-
-//        initParallaxValue();
-
         getLoaderManager().initLoader(0, null, this);
 
         if (savedInstanceState == null) {
@@ -88,14 +69,6 @@ public class ArticleListActivity extends ActionBarActivity implements
         }
     }
 
-    private void initParallaxValue() {
-        CollapsingToolbarLayout.LayoutParams layoutParams =
-                (CollapsingToolbarLayout.LayoutParams) mCollapsingLogo.getLayoutParams();
-
-        layoutParams.setParallaxMultiplier(0.1f);
-
-        mCollapsingLogo.setLayoutParams(layoutParams);
-    }
     private void refresh() {
         startService(new Intent(this, UpdaterService.class));
     }
@@ -109,56 +82,6 @@ public class ArticleListActivity extends ActionBarActivity implements
 
         int maxScroll = appBarLayout.getTotalScrollRange();
         float percentage = (float) Math.abs(verticalOffset) / (float) maxScroll;
-
-//        handleCollapsingLogoTransition(percentage);
-//        handleToolbarLogoTransition(percentage);
-    }
-
-    //The following two methods are taken from:
-    //https://github.com/saulmm/CoordinatorBehaviorExample/blob/master/app/src/main/java/saulmm/myapplication/MainActivity.java
-    //and modified to suit the purposes of this app
-
-    private void handleCollapsingLogoTransition(float percentage) {
-        if (percentage >= PERCENTAGE_TO_HIDE_COLLAPSING_LOGO) {
-            if(mIsCollapsingToolbarLogoVisible) {
-                startAlphaAnimation(mCollapsingLogo, ALPHA_ANIMATIONS_DURATION, View.INVISIBLE);
-                mIsCollapsingToolbarLogoVisible = false;
-            }
-
-        } else {
-
-            if (!mIsCollapsingToolbarLogoVisible) {
-                startAlphaAnimation(mCollapsingLogo, ALPHA_ANIMATIONS_DURATION, View.VISIBLE);
-                mIsCollapsingToolbarLogoVisible = true;
-            }
-        }
-    }
-
-    private void handleToolbarLogoTransition(float percentage) {
-        if (percentage >= PERCENTAGE_TO_SHOW_LOGO_AT_TOOLBAR) {
-
-            if(!mIsToolbarLogoVisible) {
-                startAlphaAnimation(mToolbarLogo, ALPHA_ANIMATIONS_DURATION, View.VISIBLE);
-                mIsToolbarLogoVisible = true;
-            }
-
-        } else {
-
-            if (mIsToolbarLogoVisible) {
-                startAlphaAnimation(mToolbarLogo, ALPHA_ANIMATIONS_DURATION, View.INVISIBLE);
-                mIsToolbarLogoVisible = false;
-            }
-        }
-    }
-
-    public static void startAlphaAnimation (View v, long duration, int visibility) {
-        AlphaAnimation alphaAnimation = (visibility == View.VISIBLE)
-                ? new AlphaAnimation(0f, 1f)
-                : new AlphaAnimation(1f, 0f);
-
-        alphaAnimation.setDuration(duration);
-        alphaAnimation.setFillAfter(true);
-        v.startAnimation(alphaAnimation);
     }
 
     @Override

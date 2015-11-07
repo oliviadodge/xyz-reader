@@ -11,10 +11,11 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <FrameLayout
+        <LinearLayout
             android:id="@+id/photo_container"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:orientation="vertical"
             android:background="@color/photo_placeholder">
             <!--suppress AndroidLintContentDescription -->
             <com.example.xyzreader.ui.SetAspectImageView
@@ -32,7 +33,7 @@
                 android:maxWidth="@dimen/detail_card_max_width"
                 android:background="#fff"
                 app:elevation="2dp"
-                android:layout_marginTop="@dimen/detail_card_top_margin">
+                >
 
                 <LinearLayout
                     android:id="@+id/meta_bar"
@@ -81,21 +82,8 @@
                     tools:text="Testing 123456 Testing 123456"/>
 
             </com.example.xyzreader.ui.MaxWidthLinearLayout>
-        </FrameLayout>
+        </LinearLayout>
     </com.example.xyzreader.ui.ObservableScrollView>
-
-    <!--<ImageButton android:id="@+id/share_fab"-->
-        <!--android:stateListAnimator="@anim/fab_state_list_anim"-->
-        <!--android:background="@drawable/add_fab_background"-->
-        <!--android:layout_gravity="bottom|end"-->
-        <!--android:layout_marginRight="@dimen/fab_margin"-->
-        <!--android:layout_marginBottom="@dimen/fab_margin"-->
-        <!--android:layout_width="56dp"-->
-        <!--android:layout_height="56dp"-->
-        <!--android:src="@drawable/ic_share"-->
-        <!--android:elevation="@dimen/fab_elevation"-->
-        <!--android:contentDescription="@string/action_share" />-->
-
 
     <android.support.design.widget.FloatingActionButton
         android:id="@+id/share_fab"
