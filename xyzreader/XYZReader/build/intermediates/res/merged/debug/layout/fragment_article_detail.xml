@@ -12,28 +12,17 @@
         android:layout_height="match_parent">
 
         <FrameLayout
+            android:id="@+id/photo_container"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
-
-            <FrameLayout
-                android:id="@+id/photo_container"
+            android:layout_height="wrap_content"
+            android:background="@color/photo_placeholder">
+            <!--suppress AndroidLintContentDescription -->
+            <com.example.xyzreader.ui.SetAspectImageView
+                android:id="@+id/photo"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:background="@color/photo_placeholder">
-                <!--suppress AndroidLintContentDescription -->
-                <com.example.xyzreader.ui.SetAspectImageView
-                    android:id="@+id/photo"
-                    android:layout_width="match_parent"
-                    android:layout_height="0dp"
-                    android:scaleType="centerCrop"
-                     />
-
-                <View
-                    android:layout_width="match_parent"
-                    android:layout_height="@dimen/detail_photo_background_protection"
-                    android:background="@drawable/photo_background_protection" />
-
-            </FrameLayout>
+                android:layout_height="0dp"
+                android:scaleType="centerCrop"
+                 />
 
             <com.example.xyzreader.ui.MaxWidthLinearLayout
                 android:orientation="vertical"

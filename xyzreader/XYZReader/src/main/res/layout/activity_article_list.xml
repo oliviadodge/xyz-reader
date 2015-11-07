@@ -22,6 +22,17 @@
                 "@style/TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse"
             app:layout_scrollFlags="scroll|exitUntilCollapsed">
 
+            <ImageView
+                android:id="@+id/collapsing_toolbar_logo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/logo"
+                android:layout_gravity="bottom"
+                android:layout_marginLeft="@dimen/toolbar_inset"
+                android:layout_marginStart="@dimen/toolbar_inset"
+                android:contentDescription="@string/app_name"
+                />
+
             <android.support.v7.widget.Toolbar
                 android:id="@+id/toolbar"
                 app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
@@ -33,11 +44,12 @@
 
 
                 <!--<ImageView-->
+                    <!--android:id="@+id/toolbar_logo"-->
                     <!--android:layout_width="wrap_content"-->
                     <!--android:layout_height="wrap_content"-->
                     <!--android:src="@drawable/logo"-->
                     <!--android:contentDescription="@string/app_name"-->
-                    <!--android:layout_gravity="bottom"/>-->
+                    <!--/>-->
 
             </android.support.v7.widget.Toolbar>
         </android.support.design.widget.CollapsingToolbarLayout>

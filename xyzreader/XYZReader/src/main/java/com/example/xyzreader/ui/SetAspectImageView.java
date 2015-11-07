@@ -23,7 +23,7 @@ public class SetAspectImageView extends ImageView {
 
     @Override
     protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {
-        int height = MeasureSpec.getSize(widthMeasureSpec) * 2 / 3;
+        int height = MeasureSpec.getSize(widthMeasureSpec) * 3 / 4;
         int heightSpec = MeasureSpec.makeMeasureSpec(height,
                 MeasureSpec.EXACTLY);
         super.onMeasure(widthMeasureSpec, heightSpec);
