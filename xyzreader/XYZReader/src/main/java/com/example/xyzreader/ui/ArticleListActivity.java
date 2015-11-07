@@ -79,9 +79,6 @@ public class ArticleListActivity extends ActionBarActivity implements
     @Override
     public void onOffsetChanged(AppBarLayout appBarLayout, int verticalOffset) {
         mSwipeRefreshLayout.setEnabled(verticalOffset == 0);
-
-        int maxScroll = appBarLayout.getTotalScrollRange();
-        float percentage = (float) Math.abs(verticalOffset) / (float) maxScroll;
     }
 
     @Override

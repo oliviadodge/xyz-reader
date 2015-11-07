@@ -42,15 +42,6 @@
                 android:layout_height="48dp"
                 app:layout_collapseMode="pin">
 
-
-                <!--<ImageView-->
-                    <!--android:id="@+id/toolbar_logo"-->
-                    <!--android:layout_width="wrap_content"-->
-                    <!--android:layout_height="wrap_content"-->
-                    <!--android:src="@drawable/logo"-->
-                    <!--android:contentDescription="@string/app_name"-->
-                    <!--/>-->
-
             </android.support.v7.widget.Toolbar>
         </android.support.design.widget.CollapsingToolbarLayout>
     </android.support.design.widget.AppBarLayout>

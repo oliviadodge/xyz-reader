@@ -10,23 +10,768 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c16a93d-ac55-42eb-a67c-6dd20207d880" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleListActivity$1.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleListActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleListActivity$2.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleListActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleListActivity$Adapter$1.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleListActivity$Adapter$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleListActivity$Adapter.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleListActivity$Adapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleListActivity$ViewHolder.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleListActivity$ViewHolder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleListActivity.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleListActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/outputs/apk/XYZReader-debug-unaligned.apk" afterPath="$PROJECT_DIR$/XYZReader/build/outputs/apk/XYZReader-debug-unaligned.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/outputs/apk/XYZReader-debug.apk" afterPath="$PROJECT_DIR$/XYZReader/build/outputs/apk/XYZReader-debug.apk" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\dex\debug\classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\R.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\aapt\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\annotations.zip" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\anim\abc_fade_in.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\anim\abc_fade_out.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\anim\abc_grow_fade_in_from_bottom.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\anim\abc_shrink_fade_out_from_bottom.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\anim\abc_slide_in_bottom.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\anim\abc_slide_in_top.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\anim\abc_slide_out_bottom.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\anim\abc_slide_out_top.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\color\abc_background_cache_hint_selector_material_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\color\abc_background_cache_hint_selector_material_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\color\abc_primary_text_disable_only_material_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\color\abc_primary_text_disable_only_material_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\color\abc_primary_text_material_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\color\abc_primary_text_material_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\color\abc_search_url_text.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\color\abc_secondary_text_material_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\color\abc_secondary_text_material_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_ab_share_pack_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_btn_check_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_btn_check_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_btn_radio_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_btn_radio_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_btn_rating_star_off_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_btn_rating_star_on_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_btn_switch_to_on_mtrl_00001.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_btn_switch_to_on_mtrl_00012.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_cab_background_top_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_ic_clear_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_ic_commit_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_ic_go_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_ic_menu_moreoverflow_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_ic_menu_selectall_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_ic_menu_share_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_ic_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_ic_voice_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_list_divider_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_list_focused_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_list_longpressed_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_list_pressed_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_list_pressed_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_list_selector_disabled_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_list_selector_disabled_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_menu_hardkey_panel_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_popup_background_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_switch_track_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_tab_indicator_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_textfield_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_textfield_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_textfield_search_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-hdpi-v4\abc_textfield_search_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-ldrtl-hdpi-v17\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-ldrtl-hdpi-v17\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-ldrtl-hdpi-v17\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-ldrtl-hdpi-v17\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-ldrtl-mdpi-v17\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-ldrtl-mdpi-v17\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-ldrtl-mdpi-v17\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-ldrtl-mdpi-v17\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-ldrtl-xhdpi-v17\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-ldrtl-xhdpi-v17\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-ldrtl-xhdpi-v17\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-ldrtl-xhdpi-v17\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-ldrtl-xxhdpi-v17\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-ldrtl-xxhdpi-v17\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-ldrtl-xxhdpi-v17\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-ldrtl-xxhdpi-v17\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-ldrtl-xxxhdpi-v17\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-ldrtl-xxxhdpi-v17\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-ldrtl-xxxhdpi-v17\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-ldrtl-xxxhdpi-v17\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_ab_share_pack_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_btn_check_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_btn_check_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_btn_radio_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_btn_radio_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_btn_rating_star_off_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_btn_rating_star_on_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_btn_switch_to_on_mtrl_00001.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_btn_switch_to_on_mtrl_00012.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_cab_background_top_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_ic_clear_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_ic_commit_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_ic_go_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_ic_menu_moreoverflow_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_ic_menu_selectall_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_ic_menu_share_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_ic_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_ic_voice_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_list_divider_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_list_focused_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_list_longpressed_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_list_pressed_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_list_pressed_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_list_selector_disabled_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_list_selector_disabled_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_menu_hardkey_panel_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_popup_background_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_switch_track_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_tab_indicator_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_textfield_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_textfield_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_textfield_search_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-mdpi-v4\abc_textfield_search_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-tvdpi-v4\abc_btn_switch_to_on_mtrl_00001.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-tvdpi-v4\abc_btn_switch_to_on_mtrl_00012.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_ab_share_pack_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_btn_check_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_btn_check_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_btn_radio_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_btn_radio_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_btn_rating_star_off_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_btn_rating_star_on_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_btn_switch_to_on_mtrl_00001.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_btn_switch_to_on_mtrl_00012.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_cab_background_top_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_ic_clear_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_ic_commit_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_ic_go_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_ic_menu_moreoverflow_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_ic_menu_selectall_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_ic_menu_share_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_ic_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_ic_voice_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_list_divider_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_list_focused_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_list_longpressed_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_list_pressed_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_list_pressed_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_list_selector_disabled_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_list_selector_disabled_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_menu_hardkey_panel_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_popup_background_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_switch_track_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_tab_indicator_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_textfield_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_textfield_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_textfield_search_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xhdpi-v4\abc_textfield_search_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_ab_share_pack_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_btn_check_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_btn_check_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_btn_radio_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_btn_radio_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_btn_rating_star_off_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_btn_rating_star_on_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_btn_switch_to_on_mtrl_00001.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_btn_switch_to_on_mtrl_00012.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_cab_background_top_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_ic_clear_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_ic_commit_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_ic_go_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_ic_menu_moreoverflow_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_ic_menu_selectall_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_ic_menu_share_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_ic_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_ic_voice_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_list_divider_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_list_focused_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_list_longpressed_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_list_pressed_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_list_pressed_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_list_selector_disabled_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_list_selector_disabled_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_menu_hardkey_panel_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_popup_background_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_switch_track_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_tab_indicator_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_textfield_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_textfield_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_textfield_search_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxhdpi-v4\abc_textfield_search_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxxhdpi-v4\abc_btn_check_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxxhdpi-v4\abc_btn_check_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxxhdpi-v4\abc_btn_radio_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxxhdpi-v4\abc_btn_radio_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxxhdpi-v4\abc_btn_switch_to_on_mtrl_00001.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxxhdpi-v4\abc_btn_switch_to_on_mtrl_00012.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxxhdpi-v4\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxxhdpi-v4\abc_ic_clear_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxxhdpi-v4\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxxhdpi-v4\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxxhdpi-v4\abc_ic_menu_moreoverflow_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxxhdpi-v4\abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxxhdpi-v4\abc_ic_menu_selectall_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxxhdpi-v4\abc_ic_menu_share_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxxhdpi-v4\abc_ic_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxxhdpi-v4\abc_ic_voice_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxxhdpi-v4\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxxhdpi-v4\abc_switch_track_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable-xxxhdpi-v4\abc_tab_indicator_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable\abc_btn_check_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable\abc_btn_default_mtrl_shape.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable\abc_btn_radio_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable\abc_cab_background_internal_bg.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable\abc_cab_background_top_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable\abc_edit_text_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable\abc_item_background_holo_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable\abc_item_background_holo_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable\abc_list_selector_background_transition_holo_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable\abc_list_selector_background_transition_holo_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable\abc_list_selector_holo_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable\abc_list_selector_holo_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable\abc_ratingbar_full_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable\abc_spinner_textfield_background_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable\abc_switch_thumb_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable\abc_tab_indicator_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\drawable\abc_textfield_search_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\layout-v11\abc_screen_content_include.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\layout\abc_action_bar_title_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\layout\abc_action_bar_up_container.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\layout\abc_action_bar_view_list_nav_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\layout\abc_action_menu_item_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\layout\abc_action_menu_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\layout\abc_action_mode_bar.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\layout\abc_action_mode_close_item_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\layout\abc_activity_chooser_view.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\layout\abc_activity_chooser_view_list_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\layout\abc_expanded_menu_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\layout\abc_list_menu_item_checkbox.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\layout\abc_list_menu_item_icon.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\layout\abc_list_menu_item_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\layout\abc_list_menu_item_radio.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\layout\abc_popup_menu_item_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\layout\abc_screen_content_include.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\layout\abc_screen_simple.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\layout\abc_screen_simple_overlay_action_mode.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\layout\abc_screen_toolbar.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\layout\abc_search_dropdown_item_icons_2line.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\layout\abc_search_view.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\layout\abc_simple_dropdown_hint.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\layout\support_simple_spinner_dropdown_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-af\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-am\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-ar\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-bg\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-bn-rBD\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-ca\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-cs\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-da\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-de\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-el\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-en-rGB\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-en-rIN\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-es-rUS\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-es\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-et-rEE\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-eu-rES\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-fa\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-fi\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-fr-rCA\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-fr\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-gl-rES\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-hdpi-v4\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-hi\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-hr\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-hu\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-hy-rAM\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-in\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-is-rIS\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-it\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-iw\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-ja\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-ka-rGE\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-kk-rKZ\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-km-rKH\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-kn-rIN\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-ko\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-ky-rKG\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-land\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-large-v4\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-lo-rLA\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-lt\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-lv\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-mk-rMK\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-ml-rIN\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-mn-rMN\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-mr-rIN\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-ms-rMY\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-my-rMM\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-nb\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-ne-rNP\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-nl\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-pl\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-port\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-pt-rPT\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-pt\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-ro\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-ru\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-si-rLK\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-sk\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-sl\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-sr\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-sv\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-sw600dp-v13\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-sw\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-ta-rIN\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-te-rIN\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-th\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-tl\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-tr\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-uk\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-ur-rPK\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-uz-rUZ\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-v11\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-v14\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-v17\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-v21\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-vi\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-w360dp-v13\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-w480dp-v13\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-w500dp-v13\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-w600dp-v13\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-w720dp-v13\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-xlarge-land-v4\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-xlarge-v4\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-zh-rCN\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-zh-rHK\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-zh-rTW\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values-zu\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\res\values\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\R.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\aapt\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\jars\classes.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\res\values\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\22.0.0\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\22.0.0\aapt\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\22.0.0\jars\classes.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\aapt\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\aapt\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\jars\classes.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\jars\libs\internal_impl-22.0.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\aapt\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\aidl\android\support\v4\media\MediaMetadataCompat.aidl" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\aidl\android\support\v4\media\RatingCompat.aidl" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\aidl\android\support\v4\media\session\MediaSessionCompat.aidl" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\aidl\android\support\v4\media\session\ParcelableVolumeInfo.aidl" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\aidl\android\support\v4\media\session\PlaybackStateCompat.aidl" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\incremental\mergeResources\androidTest\debug\merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\incremental\mergeResources\debug\merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\manifests\androidTest\debug\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-03e4f44814cb2a274673c96cb5bb2d56a97c87bd.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-5b4e64d87529c671c69fbcb3382ce8119d6ffe23.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-62afaf489f87a0f5ebc186ac3666e6e7658b808a.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-b13b8024c36eb23865573e40a87c02437bb04873.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-c6e50148f12e59961d63deb34448a18d2fe0074a.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-cfe2a9ffddf8e2d795138986be9d7eb05f217f22.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-d0d3d2d200763fd39516e2df08d4139957fbdaf9.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-b8d9a60c4ab444764f5f8c3b0479a9a558749928.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-dee75397d5ed26e24e853f557bcc496f70b12f6c.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okhttp-1.1.0-f95148a82e5df98fc2edee8ad329807870e35142.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-f6b595a1b926c97a099d3065c927e898aade72b2.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\volley-b9fb8f4c74489098fde60750688f8d17664a04e2.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\anim-v21\fab_state_list_anim.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\anim\abc_fade_in.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\anim\abc_fade_out.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\anim\abc_grow_fade_in_from_bottom.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\anim\abc_shrink_fade_out_from_bottom.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\anim\abc_slide_in_bottom.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\anim\abc_slide_in_top.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\anim\abc_slide_out_bottom.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\anim\abc_slide_out_top.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\color\abc_background_cache_hint_selector_material_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\color\abc_background_cache_hint_selector_material_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\color\abc_primary_text_disable_only_material_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\color\abc_primary_text_disable_only_material_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\color\abc_primary_text_material_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\color\abc_primary_text_material_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\color\abc_search_url_text.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\color\abc_secondary_text_material_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\color\abc_secondary_text_material_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_ab_share_pack_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_btn_check_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_btn_check_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_btn_radio_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_btn_radio_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_btn_rating_star_off_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_btn_rating_star_on_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_btn_switch_to_on_mtrl_00001.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_btn_switch_to_on_mtrl_00012.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_cab_background_top_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_ic_clear_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_ic_commit_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_ic_go_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_ic_menu_moreoverflow_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_ic_menu_selectall_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_ic_menu_share_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_ic_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_ic_voice_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_list_divider_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_list_focused_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_list_longpressed_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_list_pressed_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_list_pressed_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_list_selector_disabled_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_list_selector_disabled_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_menu_hardkey_panel_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_popup_background_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_switch_track_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_tab_indicator_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_textfield_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_textfield_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_textfield_search_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-hdpi-v4\abc_textfield_search_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-ldrtl-hdpi-v17\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-ldrtl-hdpi-v17\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-ldrtl-hdpi-v17\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-ldrtl-hdpi-v17\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-ldrtl-mdpi-v17\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-ldrtl-mdpi-v17\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-ldrtl-mdpi-v17\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-ldrtl-mdpi-v17\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-ldrtl-xhdpi-v17\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-ldrtl-xhdpi-v17\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-ldrtl-xhdpi-v17\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-ldrtl-xhdpi-v17\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-ldrtl-xxhdpi-v17\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-ldrtl-xxhdpi-v17\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-ldrtl-xxhdpi-v17\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-ldrtl-xxhdpi-v17\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-ldrtl-xxxhdpi-v17\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-ldrtl-xxxhdpi-v17\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-ldrtl-xxxhdpi-v17\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-ldrtl-xxxhdpi-v17\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_ab_share_pack_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_btn_check_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_btn_check_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_btn_radio_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_btn_radio_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_btn_rating_star_off_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_btn_rating_star_on_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_btn_switch_to_on_mtrl_00001.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_btn_switch_to_on_mtrl_00012.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_cab_background_top_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_ic_clear_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_ic_commit_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_ic_go_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_ic_menu_moreoverflow_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_ic_menu_selectall_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_ic_menu_share_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_ic_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_ic_voice_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_list_divider_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_list_focused_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_list_longpressed_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_list_pressed_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_list_pressed_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_list_selector_disabled_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_list_selector_disabled_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_menu_hardkey_panel_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_popup_background_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_switch_track_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_tab_indicator_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_textfield_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_textfield_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_textfield_search_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-mdpi-v4\abc_textfield_search_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-nodpi-v4\empty_detail.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-tvdpi-v4\abc_btn_switch_to_on_mtrl_00001.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-tvdpi-v4\abc_btn_switch_to_on_mtrl_00012.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-v21\white_selectable_item_background_circle.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_ab_share_pack_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_btn_check_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_btn_check_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_btn_radio_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_btn_radio_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_btn_rating_star_off_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_btn_rating_star_on_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_btn_switch_to_on_mtrl_00001.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_btn_switch_to_on_mtrl_00012.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_cab_background_top_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_ic_clear_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_ic_commit_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_ic_go_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_ic_menu_moreoverflow_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_ic_menu_selectall_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_ic_menu_share_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_ic_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_ic_voice_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_list_divider_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_list_focused_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_list_longpressed_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_list_pressed_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_list_pressed_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_list_selector_disabled_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_list_selector_disabled_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_menu_hardkey_panel_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_popup_background_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_switch_track_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_tab_indicator_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_textfield_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_textfield_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_textfield_search_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xhdpi-v4\abc_textfield_search_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_ab_share_pack_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_btn_check_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_btn_check_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_btn_radio_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_btn_radio_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_btn_rating_star_off_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_btn_rating_star_on_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_btn_switch_to_on_mtrl_00001.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_btn_switch_to_on_mtrl_00012.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_cab_background_top_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_ic_clear_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_ic_commit_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_ic_go_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_ic_menu_moreoverflow_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_ic_menu_selectall_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_ic_menu_share_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_ic_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_ic_voice_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_list_divider_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_list_focused_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_list_longpressed_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_list_pressed_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_list_pressed_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_list_selector_disabled_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_list_selector_disabled_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_menu_hardkey_panel_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_popup_background_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_switch_track_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_tab_indicator_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_textfield_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_textfield_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_textfield_search_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\abc_textfield_search_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\ic_arrow_back.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\ic_share.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxhdpi-v4\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxxhdpi-v4\abc_btn_check_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxxhdpi-v4\abc_btn_check_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxxhdpi-v4\abc_btn_radio_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxxhdpi-v4\abc_btn_radio_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxxhdpi-v4\abc_btn_switch_to_on_mtrl_00001.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxxhdpi-v4\abc_btn_switch_to_on_mtrl_00012.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxxhdpi-v4\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxxhdpi-v4\abc_ic_clear_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxxhdpi-v4\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxxhdpi-v4\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxxhdpi-v4\abc_ic_menu_moreoverflow_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxxhdpi-v4\abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxxhdpi-v4\abc_ic_menu_selectall_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxxhdpi-v4\abc_ic_menu_share_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxxhdpi-v4\abc_ic_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxxhdpi-v4\abc_ic_voice_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxxhdpi-v4\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxxhdpi-v4\abc_switch_track_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable-xxxhdpi-v4\abc_tab_indicator_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable\abc_btn_check_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable\abc_btn_default_mtrl_shape.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable\abc_btn_radio_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable\abc_cab_background_internal_bg.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable\abc_cab_background_top_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable\abc_edit_text_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable\abc_item_background_holo_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable\abc_item_background_holo_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable\abc_list_selector_background_transition_holo_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable\abc_list_selector_background_transition_holo_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable\abc_list_selector_holo_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable\abc_list_selector_holo_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable\abc_ratingbar_full_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable\abc_spinner_textfield_background_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable\abc_switch_thumb_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable\abc_tab_indicator_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable\abc_textfield_search_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable\add_fab_background.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable\padded_divider.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable\photo_background_protection.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\drawable\white_selectable_item_background_circle.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\layout-v11\abc_screen_content_include.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\layout\abc_action_bar_title_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\layout\abc_action_bar_up_container.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\layout\abc_action_bar_view_list_nav_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\layout\abc_action_menu_item_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\layout\abc_action_menu_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\layout\abc_action_mode_bar.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\layout\abc_action_mode_close_item_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\layout\abc_activity_chooser_view.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\layout\abc_activity_chooser_view_list_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\layout\abc_expanded_menu_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\layout\abc_list_menu_item_checkbox.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\layout\abc_list_menu_item_icon.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\layout\abc_list_menu_item_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\layout\abc_list_menu_item_radio.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\layout\abc_popup_menu_item_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\layout\abc_screen_content_include.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\layout\abc_screen_simple.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\layout\abc_screen_simple_overlay_action_mode.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\layout\abc_screen_toolbar.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\layout\abc_search_dropdown_item_icons_2line.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\layout\abc_search_view.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\layout\abc_simple_dropdown_hint.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\layout\activity_article_detail.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\layout\activity_article_list.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\layout\fragment_article_detail.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\layout\list_item_article.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\layout\support_simple_spinner_dropdown_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\menu\main.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\mipmap-hdpi-v4\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\mipmap-mdpi-v4\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\mipmap-xhdpi-v4\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\mipmap-xxhdpi-v4\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\mipmap-xxxhdpi-v4\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-af\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-am\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-ar\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-bg\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-bn-rBD\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-ca\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-cs\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-da\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-de\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-el\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-en-rGB\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-en-rIN\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-es-rUS\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-es\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-et-rEE\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-eu-rES\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-fa\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-fi\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-fr-rCA\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-fr\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-gl-rES\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-hdpi-v4\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-hi\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-hr\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-hu\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-hy-rAM\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-in\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-is-rIS\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-it\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-iw\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-ja\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-ka-rGE\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-kk-rKZ\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-km-rKH\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-kn-rIN\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-ko\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-ky-rKG\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-land\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-large-v4\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-lo-rLA\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-lt\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-lv\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-mk-rMK\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-ml-rIN\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-mn-rMN\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-mr-rIN\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-ms-rMY\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-my-rMM\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-nb\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-ne-rNP\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-nl\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-pl\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-port\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-pt-rPT\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-pt\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-ro\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-ru\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-si-rLK\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-sk\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-sl\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-sr\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-sv\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-sw600dp-land-v13\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-sw600dp-v13\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-sw\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-ta-rIN\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-te-rIN\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-th\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-tl\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-tr\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-uk\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-ur-rPK\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-uz-rUZ\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-v11\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-v14\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-v17\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-v21\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-vi\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-w360dp-v13\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-w480dp-v13\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-w500dp-v13\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-w600dp-v13\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-w720dp-v13\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-w800dp-v13\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-xlarge-land-v4\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-xlarge-v4\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-zh-rCN\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-zh-rHK\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-zh-rTW\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values-zu\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\res\debug\values\values.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\resources\resources-debug-androidTest.ap_" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\intermediates\resources\resources-debug.ap_" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug-unaligned.apk" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\olivi\OneDrive\Android\xyz-reader\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/dex/debug/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/res/resources-debug-androidTest.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/res/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java" afterPath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/res/merged/debug/layout/fragment_article_detail.xml" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/res/merged/debug/layout/fragment_article_detail.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_article_detail.xml" afterPath="$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_article_detail.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/DividerItemDecoration.java" afterPath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/DividerItemDecoration.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_list.xml" afterPath="$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeAssets/debug/merger.xml" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeAssets/debug/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeResourcesdebug/merger.xml" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeResourcesdebug/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -56,14 +801,60 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="fragment_article_detail.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fragment_article_detail.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_article_detail.xml">
-          <provider selected="true" editor-type-id="android-designer">
+          <provider editor-type-id="android-designer">
             <state />
           </provider>
-          <provider editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="46.61111">
               <caret line="14" column="44" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list_item_article.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/list_item_article.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-20.74074">
+              <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArticleDetailActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_article_detail.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_detail.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.8181819">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -74,6 +865,41 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-3.9722223">
               <caret line="51" column="36" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_article_list.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_list.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-31.851852">
+              <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding>
+                <element signature="e#1760#1793#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArticleListActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="81" column="4" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DividerItemDecoration.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/DividerItemDecoration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.1453775">
+              <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -1403,15 +2229,15 @@
         <option value="$PROJECT_DIR$/XYZReader/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/res/values/styles.xml" />
-        <option value="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/DividerItemDecoration.java" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/res/layout/list_item_article.xml" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailFragment.java" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/res/values/macro_layout.xml" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/SetAspectImageView.java" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/res/values/dimens.xml" />
+        <option value="$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_article_detail.xml" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_list.xml" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java" />
-        <option value="$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_article_detail.xml" />
+        <option value="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/DividerItemDecoration.java" />
       </list>
     </option>
   </component>
@@ -1592,6 +2418,36 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xyzreader" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xyzreader" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XYZReader" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1918,7 +2774,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.77210885" sideWeight="0.49741268" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.77210885" sideWeight="0.49741268" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32517007" sideWeight="0.503881" order="9" side_tool="true" content_ui="tabs" />
@@ -1940,6 +2796,35 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.77210885" sideWeight="0.49741268" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32517007" sideWeight="0.503881" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3324709" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292517" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988358" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32380953" sideWeight="0.49611902" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -2004,9 +2889,9 @@
             <element signature="e#1451#1473#0" expanded="true" />
             <element signature="e#1517#1535#0" expanded="true" />
             <element signature="e#1837#1870#0" expanded="true" />
-            <element signature="e#2775#2815#0" expanded="true" />
-            <element signature="e#3133#3158#0" expanded="true" />
-            <element signature="e#3192#3217#0" expanded="true" />
+            <element signature="e#2395#2435#0" expanded="true" />
+            <element signature="e#2753#2778#0" expanded="true" />
+            <element signature="e#2812#2837#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2076,9 +2961,9 @@
             <element signature="e#1451#1473#0" expanded="true" />
             <element signature="e#1517#1535#0" expanded="true" />
             <element signature="e#1837#1870#0" expanded="true" />
-            <element signature="e#2775#2815#0" expanded="true" />
-            <element signature="e#3133#3158#0" expanded="true" />
-            <element signature="e#3192#3217#0" expanded="true" />
+            <element signature="e#2395#2435#0" expanded="true" />
+            <element signature="e#2753#2778#0" expanded="true" />
+            <element signature="e#2812#2837#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2158,9 +3043,9 @@
             <element signature="e#1451#1473#0" expanded="true" />
             <element signature="e#1517#1535#0" expanded="true" />
             <element signature="e#1837#1870#0" expanded="true" />
-            <element signature="e#2775#2815#0" expanded="true" />
-            <element signature="e#3133#3158#0" expanded="true" />
-            <element signature="e#3192#3217#0" expanded="true" />
+            <element signature="e#2395#2435#0" expanded="true" />
+            <element signature="e#2753#2778#0" expanded="true" />
+            <element signature="e#2812#2837#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2177,14 +3062,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.8181819">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.20942408">
@@ -2199,28 +3076,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ImageLoaderHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_detail.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2304,37 +3163,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/DividerItemDecoration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="116" column="31" selection-start-line="116" selection-start-column="31" selection-end-line="116" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/list_item_article.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8217168">
-          <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
-          <folding>
-            <element signature="e#749#775#0" expanded="true" />
-            <element signature="e#815#842#0" expanded="true" />
-            <element signature="e#880#907#0" expanded="true" />
-            <element signature="e#1345#1371#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/SetAspectImageView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5363444">
-          <caret line="25" column="66" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6774877">
@@ -2348,36 +3176,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_list.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.648149">
-          <caret line="38" column="72" selection-start-line="38" selection-start-column="72" selection-end-line="38" selection-end-column="72" />
-          <folding>
-            <element signature="e#1385#1407#0" expanded="true" />
-            <element signature="e#1451#1473#0" expanded="true" />
-            <element signature="e#1517#1535#0" expanded="true" />
-            <element signature="e#1837#1870#0" expanded="true" />
-            <element signature="e#2775#2815#0" expanded="true" />
-            <element signature="e#3133#3158#0" expanded="true" />
-            <element signature="e#3192#3217#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="69.44444">
-          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding>
-            <element signature="e#2690#2691#0" expanded="true" />
-            <element signature="e#2758#2759#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2397,13 +3195,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_article_detail.xml">
-      <provider selected="true" editor-type-id="android-designer">
+    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.8181819">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_list.xml">
+      <provider editor-type-id="android-designer">
         <state />
       </provider>
-      <provider editor-type-id="text-editor">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-31.851852">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <element signature="e#1760#1793#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_detail.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_article_detail.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="46.61111">
           <caret line="14" column="44" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/SetAspectImageView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5363444">
+          <caret line="25" column="66" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/list_item_article.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.74074">
+          <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="81" column="4" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/DividerItemDecoration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.1453775">
+          <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
           <folding />
         </state>
       </provider>
